@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T11:22:53.155Z'
-dateModified: '2016-02-22T11:22:52.690Z'
+datePublished: '2016-02-22T11:42:26.046Z'
+dateModified: '2016-02-22T11:42:21.985Z'
 author: []
 title: Norwegian world wide
 sourcePath: _posts/2016-02-22-norwegian.md
