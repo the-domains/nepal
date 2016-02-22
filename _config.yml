@@ -1,0 +1,28 @@
+name: nepal
+favicon: null
+layout_spectrum: 0.05194067908450961
+typography_spectrum: 0.8891994168516248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1956505731213838
+  lightness: 0.3273622365668416
+  saturation: 0.9414909244515002
+  rhythmicContrast: 0.8017929093912244
+purpose: []
