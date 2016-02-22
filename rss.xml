@@ -4,7 +4,7 @@
         <description><![CDATA[Boeing 737 NG typerating worldwide]]></description>
         <link>https://thegrid.ai/nepal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 20:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 20:45:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nepal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<p>New post og fly til salg</p>]]></description>
             <link>https://thegrid.ai/nepal/306b92ff-b8b7-4c74-8682-e1e6954be369/index.html</link>
             <guid isPermaLink="false">306b92ff-b8b7-4c74-8682-e1e6954be369</guid>
-            <pubDate>Mon, 22 Feb 2016 20:44:16 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 20:44:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norwegian world wide]]></title>
@@ -28,11 +28,11 @@
             <pubDate>Mon, 22 Feb 2016 11:42:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[B737 cockpit]]></title>
-            <description><![CDATA[<article><h1>B737 cockpit</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a8dd365037a312b377901ce79fd88fad10fa46.png"></article>]]></description>
-            <link>https://thegrid.ai/nepal/b737-cockpit/index.html</link>
+            <title><![CDATA[B737 Cockpit]]></title>
+            <description><![CDATA[<article><h1>B737 Cockpit</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3a8dd365037a312b377901ce79fd88fad10fa46.png"></article>]]></description>
+            <link>urn:uuid:a8ed184b-fafc-43d3-8d80-7aeb3488d65a</link>
             <guid isPermaLink="false">70baf5cc-cb7f-4e76-ac01-68d4cd558335</guid>
-            <pubDate>Mon, 22 Feb 2016 09:05:47 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 20:44:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
