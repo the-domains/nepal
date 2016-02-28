@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:49c561b9-87ee-49de-a661-a12ffbfbba12'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T20:44:57.944Z'
-dateModified: '2016-02-22T20:44:23.113Z'
+datePublished: '2016-02-28T20:04:57.252Z'
+dateModified: '2016-02-28T20:04:56.748Z'
 author: []
 title: Norwegian world wide
 sourcePath: _posts/2016-02-22-norwegian.md
